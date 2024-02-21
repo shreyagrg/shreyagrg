@@ -2,7 +2,6 @@
 - 👀 I’m interested in cyber security, software development and artificial intelligence.
 - 🌱 I’m currently expanding my skills by learning Korean and deepening my understanding of machine learning.
 - 📫 How to reach me: @shreyagrg
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to paint - mostly watercolor and acrylic.
 
 <!---
