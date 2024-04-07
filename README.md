@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Shreya, a recent computer science graduate.
-- 👀 I’m interested in cyber security, software development and artificial intelligence.
-- 🌱 I’m currently expanding my skills by deepening my understanding of machine learning.
+- 👋 Hi, I’m Shreya, a recent Computer Science graduate.
+- 👀 I’m interested in Cyber Security, Software Development and Artificial Intelligence.
+- 🌱 I’m currently expanding my skills by deepening my understanding of Machine Learning.
 - 📫 How to reach me: @shreyagrg
 - ⚡ Fun fact: I love to paint - mostly watercolor and acrylic.
 
